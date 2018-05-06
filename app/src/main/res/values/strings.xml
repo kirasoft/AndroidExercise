@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewYorkTimesDVDPicks</string>
+
+    <!-- Content Descriptions -->
+    <string name="multimedia_content_description">Image For Dvd</string>
+
+    <!-- Error Messages -->
+    <string name="error_network">Error With Network. Check Your Connection.</string>
+
+</resources>
