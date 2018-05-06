@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="common_16_dp">16dp</dimen>
+    <dimen name="common_8_dp">8dp</dimen>
+    <dimen name="card_elevation">8dp</dimen>
+    <dimen name="card_corner_radius">8dp</dimen>
+
+
+    <!-- Dvd Item Dimensions -->
+    <dimen name="max_movie_image_height">600dp</dimen>
+    <dimen name="min_movie_image_height">150dp</dimen>
+    <dimen name="min_summary_container_height">86dp</dimen>
+    <dimen name="huge_text_size">36sp</dimen>
+    <dimen name="big_text_size">24sp</dimen>
+    <dimen name="regular_text_size">18sp</dimen>
+    <dimen name="small_text_size">12sp</dimen>
+
+
+</resources>
